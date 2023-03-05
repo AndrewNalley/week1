@@ -8,6 +8,13 @@ The CSS was functional, but with unnecessary repetition. I refactored the code t
 
 This excercise helped me understand that there is more than one way to create the same website, but putting some extra thought into the layout of the source code will make interactions much easier for future developers and impaired users. 
 
+## Usage
+
+Screenshots:
+![screenshot 1](assets/images/Screenshot-1.png)
+![screenshot 2](assets/images/Screenshot-2.png)
+
+
 ## Credits
 
 For cleaning up div tags:
